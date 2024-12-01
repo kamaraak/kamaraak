@@ -11,6 +11,9 @@ agricultural syatems that address post-harvest losses, agricultural waste manage
 and promote economic
 opportunities in local communities.
 
+_Want to learn more!_
+[click here](https://www.linkedin.com/in/karim-kamara-49b415254)
+
 ---
 
 ## Interest
