@@ -7,7 +7,7 @@ Karim is passionate about advancing food security and sustainability
 through innovative agribusiness solutions.
 With expertise in agribusiness management, data analytics, and leadership,
 he focuses on creating sustainable
-agricultural syatems that address post-harvest losses, agricultural waste management
+agricultural systems that address post-harvest losses, agricultural waste management
 and promote economic
 opportunities in local communities.
 
