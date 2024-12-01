@@ -12,6 +12,7 @@ and promote economic
 opportunities in local communities.
 
 _Want to learn more!_
+
 [click here](https://www.linkedin.com/in/karim-kamara-49b415254)
 
 ---
