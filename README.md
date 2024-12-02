@@ -11,7 +11,7 @@ agricultural systems that address post-harvest losses, agricultural waste manage
 and promote economic
 opportunities in local communities.
 
-_Want to learn more!_
+_Care to learn more!_
 
 [click here](https://www.linkedin.com/in/karim-kamara-49b415254)
 
@@ -30,3 +30,5 @@ _Want to learn more!_
 **Butterflies taste with their feet.**
 _So next time you step on something weird, just remember_
 _that if you were a butterfly, that would have been a snack._
+
+![image](https://github.com/kamaraak/karimkamara/raw/main/gitreadme.jpeg)
