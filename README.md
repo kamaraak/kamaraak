@@ -27,7 +27,7 @@ _Care to learn more!_
 
 ## Don't Forget to Have Some Fun
 
-***Butterflies taste with their feet.***
+___Butterflies taste with their feet.___
 _So next time you step on something weird, just remember_
 _that if you were a butterfly, that would have been a snack._
 
