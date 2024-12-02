@@ -31,4 +31,6 @@ _Care to learn more!_
 _So next time you step on something weird, just remember_
 _that if you were a butterfly, that would have been a snack._
 
+---
+
 ![image](https://github.com/kamaraak/karimkamara/raw/main/gitreadme.jpeg)
