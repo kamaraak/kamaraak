@@ -1,7 +1,7 @@
 
 # Karim Kamara
 
-_[email@kamaraak](mailto:kamarak388@gmail.com)
+_[email@kamaraak](mailto:kamarak388@gmail.com)_
 
 Karim is passionate about advancing food security and sustainability
 through innovative agribusiness solutions.
