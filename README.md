@@ -10,7 +10,7 @@ he focuses on creating sustainable
 agricultural systems that address post-harvest losses, agricultural waste management,
 and promote economic opportunities in local communities.
 
-_Care to learn more!_  [**hit me**](https://www.linkedin.com/in/karim-kamara-49b415254)
+`_Care to learn more!_`   `[**hit me**](https://www.linkedin.com/in/karim-kamara-49b415254)`
 
 ---
 
