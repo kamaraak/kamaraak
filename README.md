@@ -12,7 +12,7 @@ and promote economic opportunities in local communities.
 
 _Care to learn more!_
 
-[**hit me**](https://www.linkedin.com/in/karim-kamara-49b415254)
+[**Click Me**](https://www.linkedin.com/in/karim-kamara-49b415254)
 
 ---
 
