@@ -28,7 +28,7 @@ _Care to learn more!_
 
 ---
 
-## Don't Forget to Have Some Fun
+### Don't Forget to Have Some Fun
 
 _Butterflies taste with their feet._
 _So next time you step on something weird, just remember_
@@ -38,7 +38,7 @@ _that if you were a butterfly, that would have been a snack._
 
 ![image](https://github.com/kamaraak/karimkamara/raw/main/gitreadme.jpeg)
 
-## Things I'm Currently Learning
+### Things I'm Currently Learning
 
 ![Markdown](https://img.icons8.com/ios/50/000000/markdown.png) **Markdown**
 ![Python](https://img.icons8.com/color/48/000000/python.png) **Python**
