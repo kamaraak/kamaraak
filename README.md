@@ -1,5 +1,5 @@
 
-# Karim Kamara
+# **Karim Kamara**
 
 _[email@kamaraak](mailto:kamarak388@gmail.com)_
 
@@ -12,7 +12,7 @@ and promote economic opportunities in local communities.
 
 _Care to learn more!_
 
-[**Click Me**](https://www.linkedin.com/in/karim-kamara-49b415254)
+[**Click Me**](https://www.linkedin.com/in/kamaraak)
 
 ---
 
